@@ -6,6 +6,15 @@
   grid-template-columns: auto 1fr;
 }
 
+body {
+  margin: 0;
+}
+
+header {
+  background-color: #e0e0e0;
+  padding: 10px 20px;
+}
+
 #history {
   width: 150px;
 }
